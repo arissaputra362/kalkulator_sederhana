@@ -18,13 +18,13 @@ Download
 
 cd Downloads
 
-unzip kalkulator_sederhana
+unzip kalkulator_sederhana-master
 
-move kalkulator_sederhana C:\xampp\htdocs
+in kalkulator_sederhana-master move kalkulator_sederhana to C:\xampp\htdocs
 
 cd C:\xampp\htdocs
 
-php -S 127.0.0.1:80
+php -S localhost\kalkulator_sederhana
 
 ```
 
