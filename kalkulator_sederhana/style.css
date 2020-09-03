@@ -1,0 +1,46 @@
+/* Mengatur css class judul*/
+.judul{
+    /* Memberi margin sebanyak 25px pada semua sisi */
+    margin: 25px 0;
+}
+
+/* Mengatur css class container*/
+.container {
+    width: 80%;
+}
+
+/* Mengatur css class kalkulator*/
+.kalkulator{
+    /* Memberi padding sebanyak 25px pada semua sisi */
+    padding: 25px;
+
+    /* Memberi margin bawah sebesar 20px */
+    margin-bottom: 20px;
+
+    /* Memberi border dengan ketebalan 2px, tipe solid, dan berwarna  #D6D6D6 */
+    border: 2px solid #D6D6D6;
+}
+
+/* Mengatur css elemen h5 */
+h5{
+    /* Mengatur ukuran font sebesar 1.3rem */
+    font-size: 1.3rem;
+}
+
+/* Mengatur css class judul-hasil*/
+.judul-hasil{
+    /* Memberi margin bawah sebesar 15px */
+    margin-bottom: 15px;
+}
+
+/* Mengatur css class nilai*/
+.nilai {
+    /* Mengatur ukuran font weigth sebesar 500 */
+    font-weight: 500;
+
+    /* Mengatur ukuran font sebesar 1rem */
+    font-size: 1rem;
+
+    /* Memberi padding kiri sebesar 20px */
+    padding-left: 20px;
+}
