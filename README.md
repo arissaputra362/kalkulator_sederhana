@@ -24,7 +24,7 @@ in kalkulator_sederhana-master move kalkulator_sederhana to C:\xampp\htdocs
 
 cd C:\xampp\htdocs
 
-php -S localhost\kalkulator_sederhana
+php -S 127.0.0.1:80
 
 ```
 
@@ -42,7 +42,7 @@ insert address in browser
 
 ```
 
-localhost/sertifikasi/index.php
+localhost/kalkulator_sederhana/index.php
 
 ```
 Input nilai bilangan 1 dan bilangan 2. Mendukung angka belakang koma (desimal) sampai 11 angka 
