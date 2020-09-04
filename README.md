@@ -13,6 +13,7 @@ Program ini merupakan aplikasi kalkulator berbasis web untuk menentukan hasil pe
 
 
 Download
+[program](https://github.com/arissaputra362/kalkulator_sederhana/archive/master.zip) to install aplikasi kalkulator sederhana
 
 ```bash
 
